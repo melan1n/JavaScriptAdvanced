@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b836e571-ea2a-42a1-8cbc-db4685d9458e" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/01SortArray.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/02ArgumentInfoNew.js" />
-    </list>
+    <list default="true" id="b836e571-ea2a-42a1-8cbc-db4685d9458e" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -48,6 +44,16 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="05VectorMathNew.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/05VectorMathNew.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="35" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="02ArgumentInfoNew.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/02ArgumentInfoNew.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -78,6 +84,8 @@
         <option value="$PROJECT_DIR$/02ArgumentInfo.js" />
         <option value="$PROJECT_DIR$/03FunctionalSum.js" />
         <option value="$PROJECT_DIR$/04PersonalBMI.js" />
+        <option value="$PROJECT_DIR$/05VectorMath.js" />
+        <option value="$PROJECT_DIR$/05VectorMathNew.js" />
       </list>
     </option>
   </component>
@@ -148,26 +156,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.04PersonalBMI.js">
-    <configuration name="01SortArray.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="01SortArray.js" working-dir="$PROJECT_DIR$" />
-    <configuration name="02ArgumentInfoNew.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="02ArgumentInfoNew.js" working-dir="$PROJECT_DIR$" />
+  <component name="RunManager" selected="Node.js.05VectorMathNew.js">
     <configuration name="02ArgumentInfo.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="02ArgumentInfo.js" working-dir="$PROJECT_DIR$" />
     <configuration name="03FunctionalSum.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="03FunctionalSum.js" working-dir="$PROJECT_DIR$" />
     <configuration name="04PersonalBMI.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="04PersonalBMI.js" working-dir="$PROJECT_DIR$" />
+    <configuration name="05VectorMathNew.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="05VectorMathNew.js" working-dir="$PROJECT_DIR$" />
+    <configuration name="05VectorMath.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="05VectorMath.js" working-dir="$PROJECT_DIR$" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.01SortArray.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.02ArgumentInfo.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.02ArgumentInfoNew.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.03FunctionalSum.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.04PersonalBMI.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.02ArgumentInfo.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.03FunctionalSum.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.04PersonalBMI.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.05VectorMath.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.05VectorMathNew.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.04PersonalBMI.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.03FunctionalSum.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.02ArgumentInfo.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.02ArgumentInfoNew.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.01SortArray.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.05VectorMathNew.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.05VectorMath.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.04PersonalBMI.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.03FunctionalSum.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.02ArgumentInfo.js" />
       </list>
     </recent_temporary>
   </component>
@@ -184,18 +192,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1550327087568</updated>
-      <workItem from="1550327088803" duration="22693000" />
+      <workItem from="1550327088803" duration="25686000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22693000" />
+    <option name="totallyTimeSpent" value="25686000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="976" height="1038" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2497309" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2497309" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -263,6 +270,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05VectorMathNew.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="35" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05VectorMath.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="8" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="40" selection-end-column="43" />
           <folding />
         </state>
       </provider>

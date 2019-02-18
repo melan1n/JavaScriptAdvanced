@@ -24,7 +24,7 @@ solution = {
 
     dot (vec1, vec2) {
         let result = [];
-        result = vec1[0] * vec1[1] + vec2[0] * vec2[1];
+        result = vec1[0] * vec2[0] +  vec1[1] * vec2[1];
         return result;
     },
 

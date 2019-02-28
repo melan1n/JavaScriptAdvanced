@@ -1,15 +1,15 @@
-class Stringer{
-    constructor(innerString, innerLength){
+class Stringer {
+    constructor(innerString, innerLength) {
         this.innerString = innerString;
         this.innerLength = Number(innerLength);
         this._innerString = innerString;
     }
 
-       increase(lengthChange){
+    increase(lengthChange) {
         this.innerLength += lengthChange;
     }
 
-    decrease(lengthChange){
+    decrease(lengthChange) {
         if (this.innerLength <= lengthChange) {
             this.innerLength = 0;
         } else {
@@ -17,11 +17,11 @@ class Stringer{
         }
     }
 
-    toString(){
+    toString() {
         if (this.innerLength >= this._innerString.length) {
             return this._innerString;
         } else {
-            return `${this._innerString.substr(0,this.innerLength)}...`;
+            return `${this._innerString.substr(0, this.innerLength)}...`;
         }
     }
 }

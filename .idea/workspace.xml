@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/03JSClasses/03Unity.js" line="7" mnemonic="9" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="b836e571-ea2a-42a1-8cbc-db4685d9458e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/03JSClasses/04LengthLimit.js" afterPath="$PROJECT_DIR$/03JSClasses/04LengthLimit.js" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -22,52 +19,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="02Tickets.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03JSClasses/02Tickets.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="03Unity.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03JSClasses/03Unity.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="04LengthLimit.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03JSClasses/04LengthLimit.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="06SortedList.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03JSClasses/06SortedList.js">
+      <file leaf-file-name="incrementCounter.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/05JQuery/01. Increment-Counter/incrementCounter.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="252">
-              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <caret line="12" column="6" lean-forward="true" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="07InstanceValidation.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/03JSClasses/07InstanceValidation.js">
+      <file leaf-file-name="incrementCounter.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/05JQuery/01. Increment-Counter/incrementCounter.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="49" column="1" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="49" selection-end-column="1" />
-              <folding />
+            <state relative-caret-position="147">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+              <folding>
+                <marker date="1551912132323" expanded="true" signature="154:708" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -112,6 +81,13 @@
         <option value="$PROJECT_DIR$/03JSClasses/06SortedList.js" />
         <option value="$PROJECT_DIR$/03JSClasses/04LengthLimit.js" />
         <option value="$PROJECT_DIR$/03JSClasses/07InstanceValidation.js" />
+        <option value="$PROJECT_DIR$/04ObjectsComposition/01ArrayExtension.js" />
+        <option value="$PROJECT_DIR$/04ObjectsComposition/02ConstructionCrew.js" />
+        <option value="$PROJECT_DIR$/04ObjectsComposition/03CarFactory.js" />
+        <option value="$PROJECT_DIR$/04ObjectsComposition/04ExtensibleObject.js" />
+        <option value="$PROJECT_DIR$/04ObjectsComposition/05StringExtension.js" />
+        <option value="$PROJECT_DIR$/05JQuery/01. Increment-Counter/incrementCounter.html" />
+        <option value="$PROJECT_DIR$/05JQuery/01. Increment-Counter/incrementCounter.js" />
       </list>
     </option>
   </component>
@@ -163,7 +139,13 @@
             <path>
               <item name="JavaScriptAdvanced" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaScriptAdvanced" type="462c0819:PsiDirectoryNode" />
-              <item name="03JSClasses" type="462c0819:PsiDirectoryNode" />
+              <item name="05JQuery" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaScriptAdvanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScriptAdvanced" type="462c0819:PsiDirectoryNode" />
+              <item name="05JQuery" type="462c0819:PsiDirectoryNode" />
+              <item name="01. Increment-Counter" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -194,12 +176,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.07InstanceValidation.js">
-    <configuration name="02Tickets.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="02Tickets.js" working-dir="$PROJECT_DIR$/03JSClasses" />
-    <configuration name="03Unity.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="03Unity.js" working-dir="$PROJECT_DIR$/03JSClasses" />
-    <configuration name="04LengthLimit.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="04LengthLimit.js" working-dir="$PROJECT_DIR$/03JSClasses" />
-    <configuration name="06SortedList.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="06SortedList.js" working-dir="$PROJECT_DIR$/03JSClasses" />
-    <configuration name="07InstanceValidation.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="07InstanceValidation.js" working-dir="$PROJECT_DIR$/03JSClasses" />
+  <component name="RunManager" selected="JavaScript Debug.incrementCounter.html">
+    <configuration name="incrementCounter.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScriptAdvanced/05JQuery/01. Increment-Counter/incrementCounter.html" />
+    <configuration name="03CarFactory.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="03CarFactory.js" working-dir="$PROJECT_DIR$/04ObjectsComposition" />
+    <configuration name="04ExtensibleObject.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="04ExtensibleObject.js" working-dir="$PROJECT_DIR$/04ObjectsComposition" />
+    <configuration name="05StringExtension.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="05StringExtension.js" working-dir="$PROJECT_DIR$/04ObjectsComposition" />
+    <configuration name="incrementCounter.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="incrementCounter.js" working-dir="$PROJECT_DIR$/05JQuery/01. Increment-Counter" />
     <configuration name="03CharLookupTest" type="mocha-javascript-test-runner" factoryName="Mocha">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -237,19 +219,19 @@
       <item index="0" class="java.lang.String" itemvalue="Mocha.03CharLookupTest" />
       <item index="1" class="java.lang.String" itemvalue="Mocha.04MathEnforcerTest" />
       <item index="2" class="java.lang.String" itemvalue="Mocha.Test" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.02Tickets.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.03Unity.js" />
-      <item index="5" class="java.lang.String" itemvalue="Node.js.04LengthLimit.js" />
-      <item index="6" class="java.lang.String" itemvalue="Node.js.06SortedList.js" />
-      <item index="7" class="java.lang.String" itemvalue="Node.js.07InstanceValidation.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.03CarFactory.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.04ExtensibleObject.js" />
+      <item index="5" class="java.lang.String" itemvalue="Node.js.05StringExtension.js" />
+      <item index="6" class="java.lang.String" itemvalue="JavaScript Debug.incrementCounter.html" />
+      <item index="7" class="java.lang.String" itemvalue="Node.js.incrementCounter.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.07InstanceValidation.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.06SortedList.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.04LengthLimit.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.03Unity.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.02Tickets.js" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.incrementCounter.html" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.incrementCounter.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.05StringExtension.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.04ExtensibleObject.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.03CarFactory.js" />
       </list>
     </recent_temporary>
   </component>
@@ -267,7 +249,7 @@
       <option name="presentableId" value="Default" />
       <updated>1550327087568</updated>
       <workItem from="1550327088803" duration="47674000" />
-      <workItem from="1550956641710" duration="36026000" />
+      <workItem from="1550956641710" duration="58302000" />
     </task>
     <servers />
   </component>
@@ -304,22 +286,22 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83700000" />
+    <option name="totallyTimeSpent" value="105976000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="976" height="1038" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2497309" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26910657" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3768614" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3722795" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32616082" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39289805" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39518902" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -356,8 +338,26 @@
           <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="35" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/04ObjectsComposition/01ArrayExtension.js</url>
+          <line>8</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/04ObjectsComposition/01ArrayExtension.js</url>
+          <line>37</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/04ObjectsComposition/05StringExtension.js</url>
+          <line>56</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="36" />
+      <option name="time" value="45" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -534,6 +534,69 @@
         <state relative-caret-position="315">
           <caret line="49" column="1" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="49" selection-end-column="1" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04ObjectsComposition/04ExtensibleObject.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-123">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04ObjectsComposition/03CarFactory.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="2" lean-forward="false" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04ObjectsComposition/02ConstructionCrew.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04ObjectsComposition/01ArrayExtension.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04ObjectsComposition/05StringExtension.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="17" lean-forward="false" selection-start-line="0" selection-start-column="17" selection-end-line="50" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="https://code.jquery.com/jquery-3.1.0.min.js">
+      <provider selected="true" editor-type-id="httpFileEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05JQuery/01. Increment-Counter/incrementCounter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="6" lean-forward="true" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05JQuery/01. Increment-Counter/incrementCounter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding>
+            <marker date="1551912132323" expanded="true" signature="154:708" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
